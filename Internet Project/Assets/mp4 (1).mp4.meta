@@ -1,0 +1,49 @@
+fileFormatVersion: 2
+guid: 02a3785c2f79b4f7eb85d5abd13d9adc
+timeCreated: 1512679127
+licenseType: Pro
+VideoClipImporter:
+  serializedVersion: 2
+  useLegacyImporter: 0
+  quality: 0.5
+  isColorLinear: 0
+  originalWidth: 400
+  originalHeight: 296
+  frameRange: 0
+  startFrame: -1
+  endFrame: -1
+  frameCount: 10
+  frameRate: 20
+  colorSpace: 0
+  deinterlace: 0
+  sourceFileSize: 56013
+  encodeAlpha: 0
+  sourceHasAlpha: 0
+  flipVertical: 0
+  flipHorizontal: 0
+  importAudio: 0
+  sourceAudioChannelCount: 
+  sourceAudioSampleRate: 
+  targetSettings: {}
+  output:
+    format: 0
+    settings:
+      enableTranscoding: 0
+      codec: 0
+      resizeFormat: 0
+      aspectRatio: 0
+      customWidth: 400
+      customHeight: 296
+      bitrateMode: 2
+      spatialQuality: 2
+    encodedWidth: 400
+    encodedHeight: 296
+    encodedStartFrame: 0
+    encodedEndFrame: 10
+    streamedResource:
+      source: 
+      offset: 0
+      size: 56013
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
